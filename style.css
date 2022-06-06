@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@700&display=swap');
 /* Perdão! Não identei, só postei para concluir um primeiro passo, pois sigo o método SCRUN :) Muito provável que você ache que não sei identar, mas sei sim! 
 Falta inclusive tirar redeundâncias, definir um reset.css, mandar todo o @media para um css isolado, deixar a definição de fonte padronizada para não repetir
-a cada elemento   */
+a cada elemento. Também vou melhorar a harmonia, tamanho proporcional de fonte calculando, para que no @media fique proporcional ao visto no desktop.  */
 * {margin: 0;
 padding: 0;
 }
