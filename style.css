@@ -246,7 +246,7 @@ footer p {
 
 
       @media ( max-width: 600px) {
-        .textoimage2 { top: 2300px; font-size: 20px ; left: 10px;  width: 310px; }  
-        .bannerimage2 h4 { top: 2150px; font-size:42px ; left: 10px;  width: 310px; }
+        .textoimage2 { top: 2300px; font-size: 18px ; margin: auto;  width: 275px; text-align: justify; }  
+        .bannerimage2 h4 { top: 2150px; font-size:30px ; margin: auto;   width: 310px; text-align: justify;}
       
       }
