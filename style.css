@@ -9,7 +9,7 @@ a { text-decoration: none;}
 p a {font-family: 'Montserrat', sans-serif; color: black;}
 
 header {
-    background: #FFC107;
+    background: #503506;
     height: 117px;
     width: 100%;
 }
@@ -19,7 +19,7 @@ header {
 
 /* NAVEGACAO */
 nav {
-    background: #FFA000;
+    background: #9b8258;
     height: 48px;
     width: 100%;
 position: absolute;
@@ -93,7 +93,7 @@ li a { color: #FDFDFD;
     }
 
     button {
-    background: #176902;
+    background: #b14d1b;
     border: none;
     Width: 185px;
     Height:48px;
@@ -150,7 +150,7 @@ footer {
 footer {
   height: 130px;
   width: 100%;
-  background: #FFC107;
+  background: #9b8258;
 
 }
 
